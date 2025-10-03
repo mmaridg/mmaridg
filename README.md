@@ -8,9 +8,9 @@
 - **Python** 
 
 ## Goals 🦦
-- Master the art of web development
-- Build cool, impactful projects
-- Always stay curious and keep learning
+- Be able to share my vision of the world through code.
+- Keep constantly growing.
+- Connect with tech-passionate people.
 
 ## 🍮 Socials!
 - **LinkedIn:** [mmaridg](https://www.linkedin.com/in/mmaridg)
