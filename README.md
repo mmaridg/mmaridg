@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi everyone, I'm Mari!
 
-<!--
-**mmaridg/mmaridg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A **Computer Science Student** passionate about learning and growing in tech, with a special focus on **web development** right now. My mission is to continually _apprimorate_ my skills and solve real-life problems with my abilities.
 
-Here are some ideas to get you started:
+## 🍓 What I'm Learning
+- **HTML & CSS** 
+- **JavaScript** 
+- **Python** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 🦦
+- Master the art of web development
+- Build cool, impactful projects
+- Always stay curious and keep learning
+
+## 🍮 Socials!
+- **LinkedIn:** [mmaridg](https://www.linkedin.com/in/mmaridg)
+- **Instagram:** [@bitofmari](https://instagram.com/bitofmari)
+- **E-mail:** mmaridg@gmail.com _(preferred for contact)_
