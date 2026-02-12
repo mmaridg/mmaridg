@@ -3,9 +3,11 @@
  A **Computer Science Student** passionate about learning and growing in tech, with a special focus on **web development** right now. My mission is to continually _apprimorate_ my skills and solve real-life problems with my abilities.
 
 ## 🍓 What I'm Learning
-- **HTML & CSS** 
+- **HTML & CSS**
+- **C**
 - **JavaScript** 
-- **Python** 
+- **Python**
+- **SQL**
 
 ## Goals 🦦
 - Be able to share my vision of the world through code.
